@@ -1,3 +1,7 @@
+## SESIÓN 6
+
+https://transcripts.gotomeeting.com/#/s/4924ec54ec2df591a1c95409e8864350cb4137fdaae50a74d42dfdfbbbcde3b9
+
 ## Objetivos
 
 - Tendrán una visión general de Apache Spark y su ubicación dentro del amplio y complejo ecosistema de Big Data.

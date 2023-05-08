@@ -1,28 +1,14 @@
-## Objetivos
+# AF-BIG-DATA-PYTHON
 
-- Tendrán una visión general de Apache Spark y su ubicación dentro del amplio y complejo ecosistema de Big Data.
+## Introducción
 
-- Se iniciarán en la programación de Spark con Python y podrán desarrolloar aplicaciones empleando todos los recursos estándar del lenguaje Python.
-
-## Contenidos
-
-- Big Data
+- Introducción al Big Data
 
 - Hadoop y su ecosistema
 
 - Motivación para Spark
 
-- Apache Spark
-
-- Spark SQL
-
-- MLlib (Machine Learning)
-
-- GraphX (Grafos)
-
-- Spark Streaming
-
-- Plataforma de desarrollo
+## Python
 
 - Elementos sintácticos del lenguaje
 
@@ -34,8 +20,20 @@
 
 - Elementos de programación funcional
 
-- Gestión de errores
+- Gestión de excepciones
 
 - Operaciones de entrada-salida
 
 - Módulos
+
+## Apache Spark
+
+- Spark SQL
+
+- MLlib (Machine Learning)
+
+- GraphX (Grafos)
+
+- Spark Streaming
+
+

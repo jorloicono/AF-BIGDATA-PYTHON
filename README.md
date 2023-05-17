@@ -1,5 +1,7 @@
 # AF-BIG-DATA-PYTHON
 
+SESIÓN 1: https://transcripts.gotomeeting.com/#/s/87ff122e998ee4c9fafd3b3a75bcf8c18c768b8e7115a6e5f8e4e61099800f4b
+
 ## Introducción
 
 - Introducción al Big Data

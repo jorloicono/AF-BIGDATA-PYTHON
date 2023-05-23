@@ -1,0 +1,12 @@
+person_ID,name,first,last,middle,email,phone,fax,title
+3012,"Grant, Adam ",Adam,Grant,,GrantA@univ.edu,963.555.7775,963.777.8115,Research Professor
+1824,"Head, Kurtis ",Kurtis,Head,,HeadK@univ.edu,963.555.7882,963.777.6348,Professor
+3929,"Berger, Jami ",Jami,Berger,,BergerJ@univ.edu,963.555.8158,963.777.5650,Research Professor
+2682,"Earline, Jaime Fitzgerald",Jaime,Earline,Fitzgerald,EarlineJ@univ.edu,963.555.8357,963.777.4114,Associate Curator 
+3112,"Evelyn, Summer Frost",Summer,Evelyn,Frost,EvelynS@univ.edu,963.555.8895,963.777.5730,Professor 
+2303,"Quentin, Sam Hyde",Sam,Quentin,Hyde,QuentinS@univ.edu,963.555.8921,963.777.2712,Assistant Professor
+3903,"Dunlap, Ann ",Ann,Dunlap,,DunlapA@univ.edu,963.555.9067,963.777.4290,Assistant Professor
+3095,"Shields, Rich Pena",Rich,Shields,Pena,ShieldsR@univ.edu,963.555.9197,963.777.7215,Professor 
+2383,"Page, Winnie ",Winnie,Page,,PageW@univ.edu,963.555.9366,963.777.3202,Curator
+2146,"Sparks, Ezra ",Ezra,Sparks,,SparksE@univ.edu,963.555.9390,963.777.9273,Assistant Professor
+3958,"Kaufman, Elba ",Elba,Kaufman,,KaufmanE@univ.edu,963.555.9507,963.777.3298,Professor

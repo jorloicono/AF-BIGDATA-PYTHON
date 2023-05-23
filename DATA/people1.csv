@@ -1,0 +1,8 @@
+person_ID,name,first,last,middle,email,phone,fax,title
+"3130,""Burks, Rosella "",Rosella,Burks,,BurksR@univ.edu,963.555.1253,963.777.4065,Professor "
+"3297,""Avila, Damien "",Damien,Avila,,AvilaD@univ.edu,963.555.1352,963.777.7914,Professor "
+"3547,""Olsen, Robin "",Robin,Olsen,,OlsenR@univ.edu,963.555.1378,963.777.9262,Assistant Professor"
+"1538,""Moises, Edgar Estes"",Edgar,Moises,Estes,MoisesE@univ.edu,963.555.2731x3565,963.777.8264,Professor"
+"2941,""Brian, Heath Pruitt"",Heath,Brian,Pruitt,BrianH@univ.edu,963.555.2800,963.777.7249,Associate Curator "
+"2401,""Claude, Elvin Haney"",Elvin,Claude,Haney,ClaudeE@univ.edu,963.555.2902,963.777.9730,Curator"
+"2070,""Mosley, Edmund "",Edmund,Mosley,,MosleyE@univ.edu,963.555.2945,963.777.9285,Assistant Professor"

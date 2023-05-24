@@ -6,6 +6,8 @@ SESIÓN 2: https://transcripts.gotomeeting.com/#/s/e2ede79d833d4d9d21f57b0bbf7a1
 
 SESIÓN 3: https://transcripts.gotomeeting.com/#/s/76415109e3ba4a48cff87b2227466eea609ee104c2db1a70f49de33cd0c568fa
 
+SESIÓN 4: https://transcripts.gotomeeting.com/#/s/b323007d1a6d938e66c4c6f9661a672ad8b2fb1afe00c77ecbb3224363a74e3c
+
 ## Introducción
 
 - Introducción al Big Data

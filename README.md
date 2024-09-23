@@ -3,7 +3,7 @@
 - DIA 1: https://colab.research.google.com/drive/16s-6GDbfK7PRuFWiwit_VLt1sVJNvstl?usp=sharing
 
 
-# INDICE
+# ÍNDICE
 
 ## Introducción
 

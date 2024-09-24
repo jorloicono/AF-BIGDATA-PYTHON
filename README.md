@@ -1,6 +1,7 @@
 # NOTEBOOKS SESIONES
 
 - DIA 1: https://colab.research.google.com/drive/16s-6GDbfK7PRuFWiwit_VLt1sVJNvstl?usp=sharing
+- DIA 2: https://colab.research.google.com/drive/1eCghK1qhMVOhvFrdlAzzAB-sAOA3s8-f?usp=sharing
 
 
 # ÍNDICE

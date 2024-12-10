@@ -1,5 +1,7 @@
 # NOTEBOOKS SESIONES
 
+- DIA 1: https://colab.research.google.com/drive/1gIWspNQRvd-6D4_Vpal_3zufQfRCC4LX?usp=sharing
+- 
 # ÍNDICE
 
 ## Introducción

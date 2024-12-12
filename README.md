@@ -2,7 +2,9 @@
 
 - DIA 1: https://colab.research.google.com/drive/1gIWspNQRvd-6D4_Vpal_3zufQfRCC4LX?usp=sharing
 - DIA 2: https://colab.research.google.com/drive/1W4DfB6mOyUN972PdZ4hBceeCKckRi667?usp=sharing
-- 
+- DIA 3: https://colab.research.google.com/drive/1w7XCAW_Q6s6Mo2wJJ83PqlnNbZlbOvjJ?usp=sharing
+
+  
 # ÍNDICE
 
 ## Introducción
